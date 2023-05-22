@@ -5,6 +5,7 @@ This is for 95888 Project
 Project By: Yushi Feng, Xin Zhou, Bobby Yang
 
 Abstract
+
 With cutting-edge technologies, such as AI and ChatGPT, that can reshape the future job
 market, global students seek to transfer their majors to the discipline of Computer Science (CS).
 Tuition, budget, and rankings are essential for an international student to choose a school. Thus,
